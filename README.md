@@ -4,7 +4,6 @@
 
 The purpose of this project is analyse the New York Citi Bike data to represent to investors looking to begin a bikeshare program in Des Moines. 
 
-
 # Results:
 
 ## Derivable 1: Change Trip Duration to a Datetime Format.
